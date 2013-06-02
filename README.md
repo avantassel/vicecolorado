@@ -4,22 +4,24 @@ This project was developed during the Hack4Colorado http://www.hack4colorado.com
 
 View the Live demo at http://vicecolorado.com
 
-Project Name: Vice
-Team:
-Mike Lockwitz - Full Stack
-David Suminski - UI/UX
-Billy Dixon - Back End
-Aiko Cheslin - Full Stack
-Rick Griffith - Brand/Storyteller
-Kyle Warfield - Designer
-Chase Doelling - Front End Designer
-Max Berson - BeginnerDev
-Andrew Van Tassel – Back End/Full Stack
+## Project Name: Vice
+## Team
+- Mike Lockwitz - Full Stack
+- David Suminski - UI/UX
+- Billy Dixon - Back End
+- Aiko Cheslin - Full Stack
+- Rick Griffith - Brand/Storyteller
+- Kyle Warfield - Designer
+- Chase Doelling - Front End Designer
+- Max Berson - BeginnerDev
+- Andrew Van Tassel – Back End/Full Stack
 
-Team Captain: Aiko Cheslin
-Theme: Tourism/Jobs
+## Team Captain: 
+- Aiko Cheslin
+## Theme: 
+- Tourism/Jobs
 
-Description:
+## Description:
 DeVice is an app which provides critical guidance to participants and tourists interested in the
 craft industries of colorado. Such as Craft Brewing, Craft Coffee roasters and retailers, Small
 Batch Distilleries and recreational Marijuana stores.
@@ -37,20 +39,20 @@ unique conditions required to participate safely.
 A primary goal here is to have as many participants enjoy Colorado’s safely and inside the
 boundaries of the law, where ever they are in the state.
 
-API's:
-Esri
-4Square
-Alchemy
-Data:
-Census Data
-Crime Data
-4Square Business Locations
-Yelp Reviews
-Facebook Likes
-Liquor Licenses
-Dispensaries
+## API's:
+- Esri
+- 4Square
+- Alchemy
+## Data:
+- Census Data
+- Crime Data
+- 4Square Business Locations
+- Yelp Reviews
+- Facebook Likes
+- Liquor Licenses
+- Dispensaries
 
-URL:
+## URL:
 http://vicecolorado.com/
-Repository:
+## Repository:
 http://github.com/avantassel/vicecolorado
