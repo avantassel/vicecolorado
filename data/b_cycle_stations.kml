@@ -1,0 +1,13061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>b_cycle_stations.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+	        <color>ff00ff00</color>
+	        <colorMode>normal</colorMode>
+	        <scale>1.1</scale>
+	        <Icon>
+	            <href>http://192.232.237.152/~viceco/images/vice_icons/bike.png</href>
+         	</Icon>
+      	</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>b_cycle_stations</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Market Street Station</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Market Street Station</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Market Street Station</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1600 Market Street, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>RTD</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1600 Market St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{0150AE72-AC19-4AAC-8438-C4FC9EAEC047}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<coordinates>-104.9982298129999,39.74986618200006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>9th and Santa Fe</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9th and Santa Fe</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>9th and Santa Fe</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>923 W 9th Ave, Denver, CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>69269</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>923 W 9th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{64DA3D0F-B47B-4ABB-945E-E764D1B9FEB5}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9990024439999,39.73055851000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Louisiana Pearl Light Rail</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Louisiana Pearl Light Rail</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Louisiana Pearl Light Rail</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1300 S Washington St, Denver CO 80210</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>RTD</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1300 S Washington St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80210</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{7A4BEDF4-A72E-4B57-BC82-2F3EC6ADB009}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9791972229999,39.69294301200006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>16th and Platte</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16th and Platte</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>16th and Platte</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1601 Platte St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>450477</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1601 Platte St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{C7AB0388-8C6E-4E0C-A601-5EA5DEA98251}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.008111724,39.75746216400006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>19th and Pearl</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>19th and Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>19th and Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>620 E 19th Ave, Denver, CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>620 E 19th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{ACE5C260-F6F0-49A4-A84E-4A09628F13CF}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9796277259999,39.74612363600005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>7th and Grant</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>7th and Grant</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>7th and Grant</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>721 Grant St, Denver, CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>721 Grant St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{A8741883-F95F-4A96-A125-821AC7E94FA9}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9840306539999,39.70346223500008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>1551 Lafayette</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1551 Lafayette</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>1551 Lafayette</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1551 Lafayette St, Denver, CO 80218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1551 Lafayette St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80218</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{99F196EB-5F27-4E47-8E12-0AA35FC76794}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9709773259999,39.74081166800005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>16th and Broadway</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16th and Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>16th and Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1600 Broadway, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>55719</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1600 Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{D3ECB295-ACCE-4E71-B9C8-214AC84140CC}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>1,1,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Bayaud and Emerson</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bayaud and Emerson</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Bayaud and Emerson</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>910 E Bayaud Ave, Denver, CO 80209</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>910 E Bayaud Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80209</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{5B73FD72-8F48-43B0-A34A-2D2AE6E7FEB1}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9767683209999,39.71466412800004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Buchtel and High Light Rail</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Buchtel and High Light Rail</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Buchtel and High Light Rail</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1901 Buchtel Blvd, Denver CO 80210</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>RTD</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>173983</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1901 Buchtel Blvd</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80210</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{DB6EB851-7A22-4DCF-A644-A1F8C20F9551}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9648772149999,39.68478887500004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Denver Museum of Nature and Science</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Denver Museum of Nature and Science</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Denver Museum of Nature and Science</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2001 Colorado Blvd,  Denver, CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Parks and Rec</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>222144</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2001 Colorado Blvd</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{091D7FF7-6AB2-4AFF-B942-5D1D07206B0E}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9407059159999,39.74744692900003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>13th and Pearl</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>13th and Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>13th and Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1291 Pearl St, Denver CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>66900</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1291 Pearl St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{28444AA9-00CB-4CB8-A1A0-7A239B9F7DB9}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9804905889999,39.69316775200008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Denver Public Library</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Denver Public Library</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Denver Public Library</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>100 W 13th Ave, Denver CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>166850</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>100 W 13th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{8DF6F15E-5202-441E-929B-AA4059EBE9EF}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9887986289999,39.73678846400009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Denver Zoo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Denver Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Denver Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2300 Steele St, Denver, CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Parks and Rec</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2300 Steele St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{1F40A528-A821-4749-AF68-E1FC62AA195E}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>1,1,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>16th and Little Raven</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16th and Little Raven</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>16th and Little Raven</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1600 Little Raven, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Parks and Rec</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1600 Little Raven</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{42A263C1-7EA7-42D7-9689-B908AD912D3F}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0047869609999,39.75514172400006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>11th and Broadway</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>11th and Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>11th and Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1085 Broadway, Denver CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>67892</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1085 Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{9D4FAF05-8CEF-46CB-AB5A-3F4A1EF5B93A}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>1,1,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>10th and Osage</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>10th and Osage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>10th and Osage</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1005 Osage St, Denver, CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1005 Osage St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{FE5807FF-FBC1-468E-9444-0E96C58E0AAE}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0053461319999,39.73222695600003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>1st and Broadway</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1st and Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>1st and Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>10 W 1st Ave, Denver, CO  80223</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>350580</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>10 W 1st Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80223</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{5F9AB0DD-B97D-4272-93C9-0D9E8AC4A8C7}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9876797679999,39.71830449700008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>18th and California</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>18th and California</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>18th and California</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1799 California St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1799 California St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{3BDF80AE-2FEC-4CD1-AF7B-437140ECEE88}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9898709409999,39.74707617400009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>9th and Curtis</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9th and Curtis</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>9th and Curtis</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>899 Curtis St, Denver, CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>899 Curtis St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{7E576E4A-FF37-44BE-9F0E-883075A93B51}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0043212549999,39.74214521700009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>15th and Curtis</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>15th and Curtis</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>15th and Curtis</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1501 Curtis St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1501 Curtis St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{2E1D61C8-79B6-4DD8-AE7B-9E8E6945A8C4}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9960401949999,39.74631172100004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>1550 Glenarm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1550 Glenarm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>1550 Glenarm</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1550 Glenarm Pl, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1550 Glenarm Pl</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{AF182C2D-408A-4EBD-8E42-A7612EFFC046}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9909847249999,39.74334558300006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>12th and Sherman</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>12th and Sherman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>12th and Sherman</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1220 Sherman St, Denver, CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1220 Sherman St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{5160446F-CFC6-4802-A1D6-785EA9EDF973}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9847862459999,39.73562297500007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>17th and Downing</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th and Downing</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th and Downing</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1100 E 17th Ave, Denver, CO 80218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>189441</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1100 E 17th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80218</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{2B030796-C0AF-4528-AF1A-32200150443C}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9733673729999,39.74319386900004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>9th and Downing</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9th and Downing</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>9th and Downing</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>920 Downing St, Denver, CO 80218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>920 Downing St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80218</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{F9CCC54C-2EE8-4BB9-B187-3094DB5D0981}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9733209109999,39.69981023300005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>2045 Franklin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2045 Franklin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>2045 Franklin</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2045 Franklin St, Denver, CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>57320</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2045 Franklin St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{41503903-D8EA-4470-8DD4-A5ED1A664558}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9685020429999,39.74761355700008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Ellsworth and Madison</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ellsworth and Madison</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Ellsworth and Madison</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>10 S Madison St, Denver, CO 80209</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>171814</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>10 S Madison St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80209</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{4F7B8F6E-6BD5-40A5-8FE1-D56A21407EE8}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9461006029999,39.71606717700007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>32nd and Clay</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>32nd and Clay</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>32nd and Clay</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>3199 Clay St, Denver, CO 80211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>3199 Clay St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80211</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{618C0356-B8F3-4608-85AB-0576759CA253}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0205905029999,39.76200302600006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Denver Health</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Denver Health</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Denver Health</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>777 Bannock St, Denver, CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>67719</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>777 Bannock St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{A0BC0D18-B1EB-4119-8A3E-2985CDF22745}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9902803709999,39.72813486300004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Cherry Creek Mall</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cherry Creek Mall</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Cherry Creek Mall</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2800 E 1st Ave, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Parks and Rec</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2800 E 1st Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{D13BDFAA-6F11-4958-B74A-79315673197E}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.954643965,39.71807056000006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>28th and Larimer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>28th and Larimer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>28th and Larimer</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2751 Larimer St, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>43178</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2751 Larimer St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{3DE5DCE7-9F76-41AA-BA61-D9D142FFDB11}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9835685599999,39.76001205300008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Florida and S Pearl</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Florida and S Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Florida and S Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>650 E Florida Ave., Denver CO 80210</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>650 E Florida Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80210</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{EFD5E540-2F99-4449-9EF7-2EDB0FA11701}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9798544349999,39.68933636100007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>16th and Sherman</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16th and Sherman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>16th and Sherman</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1625 Sherman St, Denver, CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1625 Sherman St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{C389EFAF-6210-41E4-89CA-EBAD6D2DFEED}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9849237669999,39.74209289500004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>22nd and Market</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>22nd and Market</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>22nd and Market</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2200 Market St, Denver CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>43418</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2200 Market St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{AE8256E9-B1DE-456A-BE82-4C9DC38E9DF1}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9909587059999,39.75548070100007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Broadway and Walnut</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Broadway and Walnut</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Broadway and Walnut</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2490 N Broadway St, Denver CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2490 N Broadway</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{6DDAA809-108B-4B74-9F34-4914C052FB72}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.987341458,39.75782206900004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>12th and Columbine</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>12th and Columbine</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>12th and Columbine</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2502 E 12th Ave, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2502 E 12th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{4F777B6D-4873-4B11-B28D-5602EEBC7197}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.957381021,39.73509581100007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>1450 Wazee</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1450 Wazee</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>1450 Wazee</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1450 Wazee St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1450 Wazee St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{358682D1-7C69-4141-A934-52275658C7D1}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.001920256,39.74969409300007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>9th and Logan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9th and Logan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>9th and Logan</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>899 Logan St, Denver, CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Multiple Owners</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>68252</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>899 Logan St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{4FE04AE9-88F8-433D-8D08-313D474DD443}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9828586119999,39.70032351600008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>13th and Marion</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>13th and Marion</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>13th and Marion</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1279 Marion St, Denver, CO 80218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>353104</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1279 Marion St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80218</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{8E08103E-2016-401E-ABF0-B4D92555F939}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9719168709999,39.73649570000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>13th and Speer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>13th and Speer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>13th and Speer</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1301 Speer Blvd, Denver, CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>221851</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1301 Speer Blvd</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{87E753E4-D09C-4381-88B3-44F05EF683B2}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.996569324,39.73688343900005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>17th and Franklin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th and Franklin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th and Franklin</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1695 Franklin St, Denver, CO 80218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1695 Franklin St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80218</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{8F28EE7D-DB91-4145-9637-CCAF993D6626}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9685189869999,39.74312876700009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>18th and Arapahoe</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>18th and Arapahoe</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>18th and Arapahoe</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1800 Arapahoe St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>352782</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1800 Arapahoe St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{2286DD64-4289-479A-B4E8-1D83D037CB64}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9931484469999,39.74972055600006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Union Station Light Rail at 17th St</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Union Station Light Rail at 17th St</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Union Station Light Rail at 17th St</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2050 17th St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>RTD</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>270493</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2050 17th St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{4C0BD585-A876-4028-8800-A6E8517A7D29}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0027571659999,39.75513838100005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Louisiana and Franklin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Louisiana and Franklin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Louisiana and Franklin</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1600 E Louisiana Ave, Denver, CO 80210</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1600 E Louisiana Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80210</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{0EF8E45A-A5D7-4D1C-9C83-DA707AD172D1}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9686813189999,39.69290159000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>17th and Curtis</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th and Curtis</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th and Curtis</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>950 17th St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>55167</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>950 17th St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{758A2CCC-FDEC-4703-9775-12F515845CA0}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9932291579999,39.74775806500009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Colfax and Columbine</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Colfax and Columbine</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Colfax and Columbine</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2451 E Colfax Ave, Denver CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2451 E Colfax Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{2E6B7C13-4E91-46F0-A118-28999672F27C}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9581070389999,39.74025210800005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>14th and Welton</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>14th and Welton</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>14th and Welton</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>890 14th St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>271000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>890 14th St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{94BE723E-BC12-4CF1-A1B7-8F52D9EF513C}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9963073909999,39.74455437200004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>17th and Blake</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th and Blake</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th and Blake</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1509 17th St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1509 17th St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{9E9E5C5C-A32E-463D-B8E3-13105B922CD2}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.998008244,39.75158160500007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>15th and Delgany</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>15th and Delgany</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>15th and Delgany</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1515 Delgany St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>231957</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1515 Delgany St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{F54A7B1E-0CC9-4BC5-9A6F-17873565378D}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0038115359999,39.75242444600008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>16th and Boulder</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16th and Boulder</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>16th and Boulder</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1615 Boulder St, Denver CO 80211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>45048</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1615 Boulder St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80211</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{6083DB96-2E75-40A9-B7F6-73D53D159E28}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0103676479999,39.75943761800005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>11th and Emerson</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>11th and Emerson</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>11th and Emerson</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>900 E 11th Ave, Denver, CO 80218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>65713</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>900 E 11th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80218</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{59EA007F-C5B0-4D62-BC35-2306C8872B9A}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9763948719999,39.73362198900009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>17th and Race</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th and Race</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th and Race</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2001 E 17th Ave, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>260560</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2001 E 17th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{BBA9BF25-83B3-42FA-8C1A-479ECD41CE69}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9634271799999,39.74327628700007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>19th and Wynkoop</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>19th and Wynkoop</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>19th and Wynkoop</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1900 Wynkoop St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1900 Wynkoop St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{1862BF74-4CF1-4E25-9EA6-08043A3A4442}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>1,1,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>6th and Clarkson</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6th and Clarkson</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>6th and Clarkson</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>771 E 6th Ave, Denver, CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>771 E 6th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{8FFBCCE8-8D45-4D34-B877-DC30A9EF7D03}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9779178849999,39.72567028400005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Colfax and Gaylord</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Colfax and Gaylord</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Colfax and Gaylord</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1490 Gaylord St, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1490 Gaylord St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{6ECAA3FA-3DAD-4ECE-858C-2B5C4B379CB5}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9616805119999,39.68950804800005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>4th and Walnut</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4th and Walnut</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>4th and Walnut</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>398 Walnut St, Denver, CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>398 Walnut St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{1CEA6494-82C3-415D-8AD3-48DC7B24567C}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0123979549999,39.74293514700008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Five Points</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Five Points</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Five Points</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2700 Welton St, Denver, CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2700 Welton St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{F215B6E2-38A2-4B33-A771-F276B672EFE9}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9779618229999,39.75477983000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Webb Building</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Webb Building</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Webb Building</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>201 W Colfax Ave, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>168091</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>201 W Colfax Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{A6742004-21F0-49AD-BF82-3F7F9F452E2A}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9903695499999,39.74013209000009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>3rd and Milwaukee</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>3rd and Milwaukee</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>3rd and Milwaukee</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>299 Milwaukee St, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>180776</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>299 Milwaukee St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{68BEB6E9-EB58-49A7-9A90-2C31EDDCBB98}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9523983479999,39.71104097300008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Colfax and Steele</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Colfax and Steele</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Colfax and Steele</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1509 Steele St, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1509 Steele St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{1193A88D-2006-4713-8D7D-24A3CDB21996}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9501311899999,39.74035880700006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>32nd and Julian</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>32nd and Julian</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>32nd and Julian</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>3199 Julian St, Denver, CO 80211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>3199 Julian St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80211</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{8F119F36-EB3B-4C45-BD7F-D1BA4AD63F69}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0323364869999,39.76209788100005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>14th and Ogden</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>14th and Ogden</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>14th and Ogden</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1425 Ogden St, Denver, CO 80218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1425 Ogden St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80218</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{11BCABB7-ECF5-49D2-9673-09E170E85BB8}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9753741609999,39.73883910600006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Denver Botanic Gardens</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Denver Botanic Gardens</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Denver Botanic Gardens</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1151 York St, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Parks and Rec</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>65003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1151 York St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{3645EEEE-1941-4280-8EB9-AAE3DCC07B8F}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9606415019999,39.69566177000007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>14th and Champa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>14th and Champa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>14th and Champa</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>700 14th St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>54218</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>700 14th St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{BF548800-AF52-45CB-B0FD-71E89B51361C}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9946732529999,39.74331542000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>20th and Chestnut</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>20th and Chestnut</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>20th and Chestnut</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2095 Chestnut Pl, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2095 Chestnut Pl</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{7F4C717A-7B82-4136-B9C0-54DC5C269DBF}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9982460349999,39.75804637500005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>250 Columbine</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>250 Columbine</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>250 Columbine</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>234 Columbine St, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>84917</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>234 Columbine St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{11CBFB9A-8621-4B76-A24B-363C52BBA381}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9569821089999,39.71996287700006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>15th and Cleveland</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>15th and Cleveland</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>15th and Cleveland</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>101 W Colfax Ave, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>181604</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>101 W Colfax Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{B583CE94-446A-4F77-A5EF-593C3B654C16}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9885629929999,39.74063389700007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>14th and Elati</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>14th and Elati</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>14th and Elati</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>400 W 14th Ave, Denver CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>390118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>400 W 14th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{7862A7FF-D8F3-4A74-AD2A-216773DB590E}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9929672509999,39.73839584600006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>Bayaud and Pennsylvania</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bayaud and Pennsylvania</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Bayaud and Pennsylvania</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>525 E Bayaud Ave, Denver, CO 80209</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>525 E Bayaud Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80209</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{13C7E0A4-391B-4DA2-8FD6-E582B404BD07}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9812021569999,39.71478575600008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>33rd and Zuni</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>33rd and Zuni</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>33rd and Zuni</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2402 W 33rd Ave, Denver, CO 80211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2402 W 33rd Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80211</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{A28CE3C8-AE26-48F5-92B2-D716C93986C6}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0159361289999,39.76317215300009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>17th and Pearl</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th and Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th and Pearl</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>523 E 17th Ave, Denver, CO 80203</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Multiple Owners</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>55524</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>523 E 17th Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80203</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{583C7CB1-FD5F-40DC-92FE-8776DF45749B}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9807962809999,39.74332487900006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>17th and Larimer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th and Larimer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th and Larimer</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1281 17th St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Wired Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1281 17th St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{6F09CF27-5B11-4E1A-9AF4-8C82BE110DD0}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9959800699999,39.75004433300006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>19th and Market</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>19th and Market</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>19th and Market</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1899 Market St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>388103</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1899 Market St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{CA9451D9-A3E0-4951-991C-92EDD1400F0A}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.994757472,39.75269214800005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>23rd and Clay</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>23rd and Clay</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>23rd and Clay</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2301 Clay St, Denver, CO 80211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>52393</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2301 Clay St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80211</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{8C0348C6-4A18-4045-B18F-8351FBA5F771}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0205969959999,39.75124318200005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>Colfax and Garfield</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Colfax and Garfield</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Colfax and Garfield</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1535 Garfield St, Denver, CO 80206</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1535 Garfield St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80206</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{957C07EB-2811-4BBE-A1FD-06EB03B0BD58}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9442713669999,39.74078512700004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>17th St and Tejon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17th St and Tejon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>17th St and Tejon</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2701 17th St, Denver, CO 80211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Public</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar Only</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2701 17th St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80211</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Planned</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{B5286A03-DBE7-490D-B8A8-E7D595589D3B}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0104787809999,39.76116446100008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>Park Ave West and Tremont</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Park Ave West and Tremont</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Park Ave West and Tremont</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>355 Park Ave W, Denver CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar with Wire Backup</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>355 Park Ave W</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{0F78AD70-C1CE-452B-A286-A343051AAAD7}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9806352759999,39.74942285300006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>REI</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>REI</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>REI</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1416 Platte St, Denver, CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar with Wire Backup</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>54126</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1416 Platte St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{EE7F54CD-D17F-45C2-94A5-6CE3D6D35BBB}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0102292629999,39.75564216000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>22nd and Pennsylvania</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>22nd and Pennsylvania</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>22nd and Pennsylvania</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>301 22nd St, Denver, CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar with Wire Backup</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>301 22nd St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{4A787C3A-5EE2-41EC-8905-436D3C05E5AF}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9815060759999,39.74818383700006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>1350 Larimer</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1350 Larimer</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>1350 Larimer</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1350 Larimer St, Denver CO 80202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Parks and Rec</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar with Wire Backup</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1350 Larimer St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80202</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{CA8D8F50-6790-4BE7-8FB8-36337358E296}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0008850199999,39.74658662800005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>25th and Lawrence</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>25th and Lawrence</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>25th and Lawrence</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2500 Lawrence St, Denver, CO 80205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar with Wire Backup</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>378978</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2500 Lawrence St</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80205</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{E6BC1237-345F-48C7-BC20-491FD0F3D85D}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9856312349999,39.75689513000009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>Pepsi Center</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pepsi Center</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>Pepsi Center</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>1000 Chopper Cir, Denver, CO 80204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar with Wire Backup</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>170593</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>1000 Chopper Cir</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80204</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{5A24FA29-02EF-495A-983B-888BBFBCE2BF}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-105.0070791579999,39.74773012500009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>DU Driscoll Center</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DU Driscoll Center</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Point</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Station Name</td>
+
+<td>DU Driscoll Center</td>
+
+</tr>
+
+<tr>
+
+<td>Station Address</td>
+
+<td>2000 E Asbury Ave, Denver CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Property Type</td>
+
+<td>Private</td>
+
+</tr>
+
+<tr>
+
+<td>Number of Docks</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Power Type</td>
+
+<td>Solar with Wire Backup</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_ID</td>
+
+<td>176621</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS_LINE1</td>
+
+<td>2000 E Asbury Ave</td>
+
+</tr>
+
+<tr>
+
+<td>ADDRESS_LINE2</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CITY</td>
+
+<td>Denver</td>
+
+</tr>
+
+<tr>
+
+<td>STATE</td>
+
+<td>CO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ZIP</td>
+
+<td>80210</td>
+
+</tr>
+
+<tr>
+
+<td>STATUS</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GLOBALID</td>
+
+<td>{2CFDB87E-A09C-4FC9-993A-DE30CB61AB18}</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-104.9639941129999,39.68022326800008,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

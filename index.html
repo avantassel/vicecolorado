@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">   
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <meta name="apple-mobile-web-app-capable" content="yes" />  
+  <meta name="apple-mobile-web-app-title" content="Install DE-VICE">
+  <title>DE-VICE</title>
+  <link rel="stylesheet" type="text/css" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.5/js/esri/css/esri.css">
+  <link href="css/bootstrap.css" rel="stylesheet" media="screen">
+  <link href="css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+  <link rel="stylesheet" href="../../css/add2home.css">
+  <link rel="stylesheet" href="css/custom-styles.css">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="favison.ico">
+  <!-- end Icons -->
+
+  <script type="text/javascript" src="js/add2home.js" charset="utf-8"></script>
+
+  <!-- Load the library references for ArcGIS API for JavaScript -->
+  <script src="http://serverapi.arcgisonline.com/jsapi/arcgis/3.5compact"></script>
+  <script>var dojoConfig = { parseOnLoad: true };</script>
+</head>
+  <body>
+    <div class="panel navbar navbar-inverse">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="titlearea ">
+            <a class="brand" href="#">
+            <img src="./images/DE-VICE_logo.png" style="width: 100%;">
+            </a>
+          </div>
+          <div class="controls"> 
+            <div class="nav-collapse collapse filters"> 
+              <ul class="nav">
+                <li>
+                  <input type="checkbox" name="beer" id="filter-beer" checked class="filter visible" data-layer="breweries">
+                  <label for="filter-beer">CRAFT BEER</label>
+                  <a href="#duiModal" class="pull-right" data-toggle="modal">Legal</a>
+                  </li>
+                <li>
+                  <input type="checkbox" name="liquor" id="filter-liquor" checked class="filter visible" data-layer="distilleries">
+                  <label for="filter-liquor">DISTILLERIES</label>
+                  <a href="#duiModal" class="pull-right" data-toggle="modal">Legal</a>
+                </li> 
+                <li>
+                  <input type="checkbox" name="coffee" id="filter-coffee" checked class="filter">
+                  <label for="filter-coffee">CRAFT COFFEE</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="food" id="filter-food" checked class="filter" data-layer="food">
+                  <label for="filter-food">LATE NIGHT FOOD</label>
+                </li>
+
+                <li>
+                  <input type="checkbox" name="cannabis" id="filter-cannabis" checked class="filter visible" data-layer="dispensaries">
+                  <label for="filter-cannabis">CANNABIS</label>
+                  <a href="#cannabisModal" class="pull-right" data-toggle="modal">Legal</a>  
+                  </li>
+                
+                <li>
+                  <input type="checkbox" name="wine" id="filter-wine" checked class="filter visible" data-layer="wine_bars">
+                  <label for="filter-wine">WINE</label>
+                  <a href="#duiModal" class="pull-right" data-toggle="modal">Legal</a>
+                </li>
+                <li>
+                  <input type="checkbox" name="sweets" id="filter-sweets" checked class="filter visible" data-layer="chocolate">
+                  <label for="filter-sweets">SWEETS</label>
+                  </li>
+                <li>
+                  <input type="checkbox" name="wine" id="filter-bcycle" checked class="filter visible" data-layer="bcycle">
+                  <label for="filter-bcycle">BIKE SHARES</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="parks" id="filter-parks"  class="filter" data-layer="parks">
+                  <label for="filter-parks">PARKS</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="crime" id="filter-crime" checked class="filter visible" data-layer="crimes">
+                  <label for="filter-crime">CRIME</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="dry" id="filter-dry" checked class="filter visible" data-layer="cityKml">
+                  <label for="filter-dry">DRY COUNTIES</label>
+                </li>
+              </ul>
+              <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="message"><span id="userMessage" class="user-message"></span></div>
+    </div>
+
+    <!-- start cannabis modal -->
+      <div id="cannabisModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="myModalLabel">Cannabis Laws</h3>
+        </div>
+        <div class="modal-body">
+          <p id="cannabisLegalText">One fine body…</p>
+        </div>
+        <div class="modal-footer">
+          <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
+      </div>
+      <!-- end modal -->
+
+      <!-- start DUI modal -->
+      <div id="duiModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3 id="myModalLabel">DUI Laws</h3>
+        </div>
+        <div class="modal-body">
+          <p id="duiLegalText">One fine body…</p>
+        </div>
+        <div class="modal-footer">
+          <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+        </div>
+      </div>
+      <!-- end modal -->
+
+    <div id="mapDiv"></div>
+    <div id="progress" class="progress hidden"></div>
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
+    <script src="js/vendor/bootstrap.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/map.js"></script>
+  
+  </body>
+</html>

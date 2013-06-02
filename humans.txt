@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+	Aiko Cheslin -- Full Stack Developer -- @lucidpaper
+	Kyle Warfield -- Communication Designer -- @kylewarfield
+	Chase Doelling -- Designer --@everlearndesign
+	David Suminski -Web Design -- 
+	Billy Dixon -- Back End Developer -- @jimmydean23
+	Mike Lockwitz -- Developer -- @mikelockz
+	Andrew Van Tassel -- Back End Developer -- @andrewvantassel
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

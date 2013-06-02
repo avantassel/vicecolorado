@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=7,IE=9">   
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
+  <title>deVICE</title>
+  <link rel="stylesheet" type="text/css" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.5/js/esri/css/esri.css">
+  <link rel="stylesheet" href="css/custom-styles.css">
+  <!-- Load the library references for ArcGIS API for JavaScript -->
+  <script src="http://serverapi.arcgisonline.com/jsapi/arcgis/3.5compact"></script>
+  <script>var dojoConfig = { parseOnLoad: true };</script>
+  
+</head>
+  <body>
+    <div class="panel">
+      <div class="titlearea">
+        <img src="./images/DE-VICE_logo.png" style="width: 100%;">
+        <span id="titleMessage" class="title-message">Vices</span>
+      </div>
+      <div class="controls"> 
+        <div class="filters"> 
+          <ul>
+            <li><input type="checkbox" name="cannabis" id="filter-cannabis" checked><label for="cannabis">Cannabis</label</li>
+            <li><input type="checkbox" name="beer" id="filter-beer" checked class="filter"><label for="beer">Beer</label</li>
+            <li><input type="checkbox" name="coffee" id="filter-coffee" class="filter"><label for="coffee">Coffee</label</li>
+            <li><input type="checkbox" name="food" id="filter-food" class="filter"><label for="food">Food</label</li>
+            <li><input type="checkbox" name="liquor" id="filter-liquor" class="filter"><label for="liquor">Liquor</label</li>
+            <li><input type="checkbox" name="parks" id="filter-parks" class="filter"><label for="parks">Parks</label</li>
+            <li><input type="checkbox" name="crime" id="filter-crime" class="filter"><label for="crime">Crime</label</li>
+            <li><input type="checkbox" name="dry" id="filter-dry" class="filter"><label for="dry">Dry Counties</label</li>
+          </ul>
+        </div>
+      </div>
+      <div class="message"><span id="userMessage" class="user-message"></span></div>
+    </div>
+
+
+    <div id="mapDiv"></div>
+    <div id="progress" class="progress hidden"></div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
+    
+
+    <script src="js/main.js"></script>
+    <script src="js/map.js"></script>
+  
+  </body>
+</html>
