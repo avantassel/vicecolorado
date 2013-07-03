@@ -4,14 +4,15 @@
 //$.noConflict();
 $( document ).ready(function() {
 
-  
+var mongoLabAPIKey = '';
+var alchemyAPIKey = '';
 
     
-  $.getJSON('http://access.alchemyapi.com/calls/url/URLGetText?apikey=a5a1d2e955f4341a09eb371bac9847bf9b737202&outputMode=json&jsonp=?&url=http://data.opencolorado.org/storage/f/2013-06-02T135644/Amendment64UseRegulationofMarijuana.html',  function(json) {
+  $.getJSON('http://access.alchemyapi.com/calls/url/URLGetText?apikey='+alchemyAPIKey+'&outputMode=json&jsonp=?&url=http://data.opencolorado.org/storage/f/2013-06-02T135644/Amendment64UseRegulationofMarijuana.html',  function(json) {
     $('#cannabisLegalText').html(json.text);
   });
 
-  $.getJSON('http://access.alchemyapi.com/calls/url/URLGetText?apikey=a5a1d2e955f4341a09eb371bac9847bf9b737202&outputMode=json&jsonp=?&url=http://data.opencolorado.org/storage/f/2013-06-02T160426/Colorado-Drunk-Driving-Laws.html',  function(json) {
+  $.getJSON('http://access.alchemyapi.com/calls/url/URLGetText?apikey='+alchemyAPIKey+'&outputMode=json&jsonp=?&url=http://data.opencolorado.org/storage/f/2013-06-02T160426/Colorado-Drunk-Driving-Laws.html',  function(json) {
     $('#duiLegalText').html(json.text);
   });
 
@@ -33,7 +34,7 @@ $( document ).ready(function() {
 
     }
     function getCrime(){
-      $.getJSON('https://api.mongolab.com/api/1/databases/vice/collections/crimes?apiKey=4e948b48e4b015bfc597e6d4',{},
+      $.getJSON('https://api.mongolab.com/api/1/databases/vice/collections/crimes?apiKey='+mongoLabAPIKey,{},
         function(data){
           if(data)
             plotRacks(data);
@@ -94,7 +95,7 @@ function maploaded(event) {
 
               symbol.setColor(new dojo.Color([0,0,0]));
 
-              var infoTemplate = new esri.InfoTemplate("Your Location", "<span>Welcome to Galvanize!</span><br />Street: ${Address}<br />City: ${City}<br />State: ${State}<br />Zip: ${Zip}");
+              var infoTemplate = new esri.InfoTemplate("Your Location", "<span>Welcome to DeVice!</span><br />Street: ${Address}<br />City: ${City}<br />State: ${State}<br />Zip: ${Zip}");
 
               //map.graphics.add(graphic, symbol);
               //layer_crimes.add(new esri.Graphic(graphic, symbol));
